@@ -1,0 +1,38 @@
+nav.navbar #name{
+    margin-left: 5px;
+    font-family: "Bell MT";
+    font-size: 20px;
+    color: black;
+}
+nav.navbar ul li a:hover{
+    transform: scale(1.5);
+    size: 40px;
+}
+nav.navbar ul li a span:hover{
+    color: #ffed4a;
+}
+#home p span
+{
+    color: limegreen;
+}
+.charities h5{
+    border: 0 solid navajowhite;
+    border-top-width: 1px;
+}
+.navbar-nav a{
+    margin-right: 10%;
+}
+main{
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.flipSwitch{
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    width: fit-content;
+}
+.flipSwitch input{
+    color: green;
+    background-color: #9561e2;
+}
