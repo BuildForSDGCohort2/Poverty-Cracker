@@ -1,0 +1,29 @@
+Site : PovertyCracker
+85p7W^S)u%tNLpMlnPSr || Mahmoued23
+
+db : QfonK]~K7OIQ-7xN
+
+
+UPDATE ! 
+
+.env :
+
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=id14632704_povertycracker
+DB_USERNAME=id14632704_root
+DB_PASSWORD=QfonK]~K7OIQ-7xN
+
+/config/database
+
+'host' => env('DB_HOST', 'localhost'),
+            'port' => env('DB_PORT', '3306'),
+            'database' => env('DB_DATABASE', 'id14632704_povertycracker'),
+            'username' => env('DB_USERNAME', 'id14632704_root'),
+            'password' => env('DB_PASSWORD', 'QfonK]~K7OIQ-7xN'),
+
+
+/bootstrap/cache 
+
+make config.php -> config.php.old

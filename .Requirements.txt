@@ -1,0 +1,10 @@
+1-register
+2-email validation
+3-login
+4-create cases
+5-show cases
+5-update profile
+6-update cases
+7-filter cases
+8-deletion of anything
+9-donate
